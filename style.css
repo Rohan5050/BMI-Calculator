@@ -1,0 +1,31 @@
+.forum {
+    height: 675px;
+    width: 1300px;
+    padding-left: 30px;
+    text-align: center;
+    background-color: grey;
+}
+
+#height , #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+
+.button {
+    width: 150px;
+    height: 25px;
+    margin-left: 90px;
+    margin-top: 30px;
+    border-radius: 8px;
+    border: 2px solid black;
+    font-size: 25px;
+    
+}
+
+#results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
